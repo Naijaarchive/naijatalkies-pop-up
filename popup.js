@@ -18,13 +18,13 @@
 
      var popurls=new Array()
 
-     popurls[0]="http"
+     popurls[0]="https://kol.jumia.com/s/KAOmKa"
 
-     popurls[1]="http://www.dynamicdrive.com"
+     popurls[1]="https://kol.jumia.com/s/xwKa7Q6"
 
-     popurls[2]="http://www.webmasterpick.com"
+     popurls[2]="https://kol.jumia.com/s/olyemOMg"
 
-     popurls[3]="http://www.codingforums.com"
+     popurls[3]="https://kol.jumia.com/s/YgzAvo0"
 
      
 
